@@ -117,7 +117,7 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>Crypto creates economic freedom by ensuring that people can participate fairly in the economy, and Coinbase is on a mission to increase economic freedom for more than 1 billion people. We’re updating the century-old financial system by providing a trusted platform that makes it easy for people and institutions to engage with crypto assets, including trading, staking, safekeeping, spending, and fast, free global transfers. We also provide critical infrastructure for onchain activity and support builders who share our vision that onchain is the new online. And together with the crypto community, we advocate for responsible rules to make the benefits of crypto available around the world.</p>
           </div>
         `
         break
